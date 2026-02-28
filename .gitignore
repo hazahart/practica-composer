@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+nbproject/
+
+/build/
+/dist/
+/web/dist/
+
+/vendor/
+/node_modules/
+
+.env
+composer.lock
